@@ -1,1 +1,5 @@
-echo "School"
+update_script
+echo "ALX School is so cool!"
+
+ main
+echo "ALX School is so cool!"
